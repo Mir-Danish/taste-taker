@@ -116,3 +116,16 @@ Make sure you have the following installed:
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/taste-taker.git
+
+### Next Step:
+Navigate to the project directory and install the dependencies:
+```bash
+cd taste-taker
+npm install
+
+###Running Locally:
+Run the app with Expo:
+```bash
+npm run android
+or
+expo start
