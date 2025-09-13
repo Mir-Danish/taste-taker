@@ -115,7 +115,7 @@ Make sure you have the following installed:
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/taste-taker.git
+git clone https://github.com/your-username/taste-taker.git```
 
 ### Next Step:
 Navigate to the project directory and install the dependencies:
